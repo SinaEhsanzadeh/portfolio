@@ -198,3 +198,10 @@ section {
     margin-top: 1rem;
     gap: 1rem;
 }
+
+/* Icon */
+
+.icon {
+    cursor: pointer;
+    height: 2rem;
+}
